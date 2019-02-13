@@ -11,6 +11,8 @@
 #include "posix.h"
 #include "buffer.h"
 
+#include <git2/deprecated.h>
+
 /********************************************
  * New error handling
  ********************************************/
